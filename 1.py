@@ -7,3 +7,4 @@ def num(n):
         s += k * a
     return s
 print("Сумма = ", num(n))
+
